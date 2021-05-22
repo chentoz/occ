@@ -105,3 +105,6 @@ _CPack_Packages/
 #individual build files
 config.yaml
 _build
+opencascade-7.5.0
+occ-7.5
+/freetype-2.10.4/objs
